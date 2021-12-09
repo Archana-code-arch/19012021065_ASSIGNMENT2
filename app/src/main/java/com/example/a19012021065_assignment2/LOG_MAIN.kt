@@ -11,7 +11,6 @@ import android.view.WindowManager
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.widget.AppCompatButton
-import com.example.a19012021065_assignment2.SIGN_MAIN
 import com.google.android.material.textfield.TextInputEditText
 
 class LOG_MAIN : AppCompatActivity() {
